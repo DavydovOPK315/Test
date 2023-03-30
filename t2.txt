@@ -1,3 +1,4 @@
 smth
+here local not
 remote note2
 remote note
